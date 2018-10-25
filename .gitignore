@@ -49,3 +49,5 @@ hs_err_pid*
 
 .idea/
 .mvn
+
+/src/test/java/com/example/MailSender/MailSend
